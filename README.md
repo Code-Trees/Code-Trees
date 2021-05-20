@@ -10,9 +10,5 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 📫 How to reach me: data.pruthiraj@gmail.com,jd.pruthiraj@protonmail.com
 - ⚡ Fun fact: I like Avangers, Love to Listen to Slash,GNR,BucketHead, While coding
 
-```python
-
-```
-
-[Pruthiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code-Trees&show_icons=true&theme=radical)
+![Pruthiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code-Trees&show_icons=true&theme=radical)
 
