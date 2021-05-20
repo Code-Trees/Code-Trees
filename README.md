@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on AI 
+- 🌱 I’m currently learning NLP
+- 💬 Ask me about Machine leraning,Computer Vision , NLP
+- 📫 How to reach me: data.pruthiraj@gmail.com
+- ⚡ Fun fact: I like Avangers, Love to Listen to Slash,GNR,BucketHead, While coding
 
 <!--
 **Code-Trees/Code-Trees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
