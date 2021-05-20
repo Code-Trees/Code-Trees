@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hola Mundo 👋
+
 - 🔭 I’m currently working on AI 
 - 🌱 I’m currently learning NLP
 - 💬 Ask me about Machine leraning,Computer Vision , NLP
-- 📫 How to reach me: data.pruthiraj@gmail.com
+- 📫 How to reach me: data.pruthiraj@gmail.com,jd.pruthiraj@protonmail.com
 - ⚡ Fun fact: I like Avangers, Love to Listen to Slash,GNR,BucketHead, While coding
 
 <!--
