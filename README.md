@@ -12,3 +12,4 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ![Pruthiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code-Trees&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Trees&layout=compact)
