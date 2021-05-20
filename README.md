@@ -1,6 +1,6 @@
 ### Hola , 👋
 
-I'm Pruthiraj Jayasingh, a passionate self-taught Ml/AI engineer  from India. My passion for software lies with dreaming up ideas and making them come true with Artificial Intelligence. 
+I'm Pruthiraj Jayasingh, a passionate self-taught Ml/AI engineer  from India. My passion for Ml/AI  lies with dreaming up ideas and making them come true with R&D. 
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
