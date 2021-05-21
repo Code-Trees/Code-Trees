@@ -7,7 +7,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 🔭 I’m currently working on AI 
 - 🌱 I’m currently learning NLP
 - 💬 Ask me about Machine learning,Computer Vision ,CNN , NLP etc
-- 📫 How to reach me: data.pruthiraj@gmail.com,jd.pruthiraj@protonmail.com
+- 📫 How to reach me: data.pruthiraj@gmail.com,jd.pruthiraj@protonmail.com ,[here](https://github.com/Code-Trees/Code-Trees/issues/1)
 - ⚡ Fun fact: I like Avangers, Love to Listen to Slash,GNR,BucketHead, While coding
 
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
