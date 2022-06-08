@@ -1,8 +1,8 @@
 ### Hola , 👋
 
-I'm Pruthiraj Jayasingh, a passionate self-taught Ml/AI engineer  from India. My passion for Ml/AI  lies with dreaming up ideas and making them come true with R&D. 
+I'm Pruthiraj Jayasingh, an Indian Ml/AI engineer who self-taught himself. My interest for Ml/AI is coming up with new concepts and bringing them to life via R&D.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+In addition, I am an open-source supporter and maintainer. I learnt a lot from the open-source community, and I enjoy how it facilitates cooperation and information sharing.
 
 - 🔭 I’m currently working on AI 
 - 🌱 I’m currently learning NLP
@@ -10,7 +10,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 📫 How to reach me: data.pruthiraj@gmail.com,jd.pruthiraj@protonmail.com ,[here](https://github.com/Code-Trees/Code-Trees/issues/1)
 - ⚡ Fun fact: I like Avangers, Love to Listen to Slash,GNR,BucketHead, While coding
 
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
+NOTE: Top languages is a github measure that shows which languages I have the most code in. It does not represent my skill level or anything like that.
 
 ![Pruthiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code-Trees&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Trees&layout=compact)
 
