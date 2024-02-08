@@ -9,7 +9,7 @@ In addition, I am an open-source supporter and maintainer. I learnt a lot from t
 - 💬 Ask me about Machine learning,Computer Vision ,CNN , NLP etc
 - 📫 How to reach me: data.pruthiraj@gmail.com,jd.pruthiraj@protonmail.com ,[here](https://github.com/Code-Trees/Code-Trees/issues/1)
 - ⚡ Fun fact: I like Avengers, Love to Listen to Slash,GNR,BucketHead, While coding
-- 💣 You can watch me studying and working live sometimes [here](https://www.youtube.com/@BionicBee)
+- 💣 You can watch me studying and working live sometimes [https://www.youtube.com/@BionicBee](https://www.youtube.com/@BionicBee)
 
 NOTE: Top languages is a github measure that shows which languages I have the most code in. It does not represent my skill level or anything like that.
 
