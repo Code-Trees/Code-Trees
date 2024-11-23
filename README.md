@@ -5,7 +5,7 @@ I'm Pruthiraj Jayasingh, an Indian Ml/AI engineer who self-taught himself. My in
 In addition, I am an open-source supporter and maintainer. I learnt a lot from the open-source community, and I enjoy how it facilitates cooperation and information sharing.
 
 - 🔭 I’m currently working on AI 
-- 🌱 I’m currently learning/working  NLP
+- 🌱 I’m currently learning/working  LLMs
 - 💬 Ask me about Machine learning,Computer Vision ,CNN , NLP etc
 - 📫 How to reach me: data.pruthiraj@gmail.com,jd.pruthiraj@protonmail.com ,[here](https://github.com/Code-Trees/Code-Trees/issues/1)
 - ⚡ Fun fact: I like Avengers, Love to Listen to Slash,GNR,BucketHead, While coding
